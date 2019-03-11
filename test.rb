@@ -1,3 +1,3 @@
 Test file
 file to be tested
-test file with jenkins
+test file with maven
